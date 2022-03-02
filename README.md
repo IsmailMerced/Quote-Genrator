@@ -1,2 +1,2 @@
-# template
+# Quote Genrator
 qoute app
